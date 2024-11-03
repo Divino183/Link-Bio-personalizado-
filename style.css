@@ -10,7 +10,9 @@ body {
 }
 
 .container {
-    background: url(".fundo.jpeg");
+    background-imagem: url(".fundo.jpeg");
+    background-position: center;
+    background-size: cover;
     border-radius: 20px;
     padding: 30px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.9);
